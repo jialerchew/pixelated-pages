@@ -1,5 +1,5 @@
 ---
-title: Pixelated Pages Documenting My Thoughts
+title: Pixelating my thoughts
 date: 2024-02-26
 ---
 
